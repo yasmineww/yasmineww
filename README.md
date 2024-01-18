@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/K3LmGC9JbEFQZLt5m5/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/K3LmGC9JbEFQZLt5m5/giphy.gif">
 <h2 align="center">Hello there 👋 , I'm Yasmine</h2>
 <h3 align="center">A passionate computer science student and coding enthusiast</h3>
 
