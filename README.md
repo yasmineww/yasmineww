@@ -3,6 +3,7 @@
 <h2 align="center">Hello there 👋 , I'm Yasmine</h2>
 <h3 align="center">A passionate computer science student and coding enthusiast</h3>
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/ymakhlou" alt="ymakhlou's 42 stats" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmineww&label=Profile%20views&color=0e75b6&style=flat" alt="yasmineww" /> </p>
 
