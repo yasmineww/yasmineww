@@ -3,6 +3,9 @@
 <h2 align="center">Hello there 👋 , I'm Yasmine</h2>
 <h3 align="center">A passionate computer science student and coding enthusiast</h3>
 
+Check out my [Medium blog](https://medium.com/@makhlouf.yasmine1/are-you-born-to-be-root-5005f303108a?source=friends_link&sk=bfcd5f3a60e3e7f1663c1da5f81e72c5) ! And stay tuned for upcoming updates ❤
+
+
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/ymakhlou" alt="ymakhlou's 42 stats" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmineww&label=Profile%20views&color=0e75b6&style=flat" alt="yasmineww" /> </p>
