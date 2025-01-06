@@ -19,7 +19,7 @@ Check out my [Medium blog](https://medium.com/@makhlouf.yasmine1/are-you-born-to
 
 ## Articles
 
-Here are some of the articles I have written on Medium:
+Here are some of the articles I have written on Medium for you to explore:
 
 - **[Are you Born2beRoot?](https://medium.com/@makhlouf.yasmine1/are-you-born-to-be-root-5005f303108a)**  
   An exploration of virtual machines and their role in modern computing.
