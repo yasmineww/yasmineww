@@ -24,16 +24,16 @@ Here are some of the articles I have written on Medium:
 - **[Are you Born2beRoot?](https://medium.com/@makhlouf.yasmine1/are-you-born-to-be-root-5005f303108a)**  
   An exploration of virtual machines and their role in modern computing.
 
-- **[Mandelbrot Fractal](Link to Article 2)**  
+- **[Mandelbrot Fractal](https://medium.com/@makhlouf.yasmine1/mandelbrot-fractal-ab75ebedf84f)**  
   A guide to creating the Mandelbrot fractal using C and graphics libraries.
 
-- **[Exploring Inter-Process Communication: How Is Data Exchanged Between Processes Using Signals?](Link to Article 3)**  
+- **[Exploring Inter-Process Communication: How Is Data Exchanged Between Processes Using Signals?](https://medium.com/@makhlouf.yasmine1/exploring-inter-process-communication-how-is-data-exchanged-between-processes-using-signals-ab368c05721f)**  
   Understanding the mechanisms of data exchange between processes in Unix-like systems.
 
-- **[OverTheWire/Natas — Part 1: Web Security Basics from 0 to Hero](Link to Article 4)**  
+- **[OverTheWire/Natas — Part 1: Web Security Basics from 0 to Hero](https://medium.com/@makhlouf.yasmine1/overthewire-natas-part-1-web-security-basics-from-0-to-hero-207cc18690eb)**  
   A beginner-friendly guide to web security using the OverTheWire Natas challenge.
 
-- **[Into the Depths of Polymorphism: Exploring C++](Link to Article 5)**  
+- **[Into the Depths of Polymorphism: Exploring C++](https://medium.com/@makhlouf.yasmine1/into-the-depths-of-polymorphism-exploring-c-90933910231a)**  
   A comprehensive dive into C++ polymorphism, its mechanics, and real-world use cases.
 
 <h3 align="left">Languages and Tools:</h3>
