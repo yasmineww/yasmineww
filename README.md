@@ -21,10 +21,10 @@ Check out my [Medium blog](https://medium.com/@makhlouf.yasmine1/are-you-born-to
 
 Here are some of the articles I have written on Medium:
 
-- **[Are you Born2beRoot? (Virtual Machines)](Link to Article 1)**  
+- **[Are you Born2beRoot?](https://medium.com/@makhlouf.yasmine1/are-you-born-to-be-root-5005f303108a)**  
   An exploration of virtual machines and their role in modern computing.
 
-- **[Mandelbrot Fractal (How to Code It with C Graphically)](Link to Article 2)**  
+- **[Mandelbrot Fractal](Link to Article 2)**  
   A guide to creating the Mandelbrot fractal using C and graphics libraries.
 
 - **[Exploring Inter-Process Communication: How Is Data Exchanged Between Processes Using Signals?](Link to Article 3)**  
