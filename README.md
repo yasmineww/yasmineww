@@ -42,5 +42,5 @@ Here are some of the articles I have written on Medium for you to explore:
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmineww&show_icons=true&locale=en" alt="yasmineww" /></p>-->
 
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif">
+<img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif">
 
